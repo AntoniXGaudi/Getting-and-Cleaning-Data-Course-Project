@@ -2,6 +2,15 @@
 
 Code Book
 
+Input Dataset:
+
++ ‘features_info.txt’: Shows information about the variables used on the feature vector.
++ ‘activity_labels.txt’: Links the class labels with their activity name.
++ ‘train/X_train.txt’: Training set.
++ ‘train/y_train.txt’: Training labels.
++ ‘test/X_test.txt’: Test set.
++ ‘test/y_test.txt’: Test labels.
+
 Data fields in tidy.txt:
 
 Human Activity Recognition database built from the recordings of 30 subjects performing activities of 
