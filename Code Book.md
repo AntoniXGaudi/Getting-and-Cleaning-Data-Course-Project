@@ -14,6 +14,8 @@ Identifiers
     
 Activity Labels
 
+File data.train.activity has values 1 to 6, each corresponding to one activity:
+
     WALKING (1): subject was walking during the test
     WALKING_UPSTAIRS (2): subject was walking up a staircase during the test
     WALKING_DOWNSTAIRS (3): subject was walking down a staircase during the test
