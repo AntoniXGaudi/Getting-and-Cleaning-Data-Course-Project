@@ -14,7 +14,7 @@ reads all input data sets and unites them in a dataframe called data.all
 
 input data sets training:
 
-  features.txt
+    features.txt
   X_train.txt
   y_train.txt
   subject_train.txt
