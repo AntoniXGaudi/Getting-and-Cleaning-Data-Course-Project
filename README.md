@@ -3,9 +3,12 @@
 run_analysis.R 5-step approach:
 
 
-0. Download the dataset if it does not already exist in the working directory
+Download the dataset if it does not already exist in the working directory
 
-1. Step: Merges the training and the test sets to create one data set
+1. Step
+
+Merges the training and the test sets to create one data set
+
 
 reads all input data sets and unites them in a dataframe called data.all
 
