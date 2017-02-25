@@ -11,16 +11,16 @@ reads all input data sets and unites them in a dataframe called data.all
 
 input data sets training:
 
-features.txt
-X_train.txt
-y_train.txt
-subject_train.txt
+  features.txt
+  X_train.txt
+  y_train.txt
+  subject_train.txt
 
 input data sets testing:
 
-X_test.txt
-y_test.txt
-subject_test.txt
+  X_test.txt
+  y_test.txt
+  subject_test.txt
 
 Moreover, column titles (names) are also added to data.all
 
