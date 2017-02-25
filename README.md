@@ -32,7 +32,17 @@ filters mean and sdt measurements via grep and puts result in data.sub
 
 Step 3: Uses descriptive activity names to name the activities in the data set
 
+activities 1,2,3,4,5 and 6 in data.sub are renamed walking, walking_upstairs, walking_downstairs, sitting, standing and laying
 
+Step 4: Appropriately labels the data set with descriptive variable names
+
+Making variable names more user-friendly: abbreviated names are written out, parenthesis removed and dashes replaced by underscores.
+
+Step 5: From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+
+data.tidy has 180 rows ( 6 activities * 30 participants) and 83 – 2 Variablen (Spalten)
+
+Tidy data as output as data_tidy.txt file
 
 +3. Loads both the training and test datasets, keeping only those columns which
 +   reflect a mean or standard deviation
