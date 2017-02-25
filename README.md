@@ -7,7 +7,7 @@ Download the dataset if it does not already exist in the working directory
 
 ++++++++++++++++++++++++++++++++++++++++
 
-1. Step: Merges the training and the test sets to create one data set
+Step 1: Merges the training and the test sets to create one data set
 
 
 reads all input data sets and unites them in a dataframe called data.all
