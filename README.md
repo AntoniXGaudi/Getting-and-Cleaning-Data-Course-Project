@@ -42,11 +42,12 @@ Step 4: Appropriately labels the data set with descriptive variable names
 Making variable names more user-friendly: abbreviated names are written out, parenthesis removed and dashes replaced by underscores.
 
 Step 5: From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
-+++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-data.tidy has 180 rows ( 6 activities * 30 participants) and 83 – 2 Variablen (Spalten)
+data.tidy has 180 rows ( 6 activities * 30 participants) and 81 – 2 = 79 variables (columns) and will be written to a text file called data_tidy.txt
 
-Tidy data as output as data_tidy.txt file
+
+
 
 +3. Loads both the training and test datasets, keeping only those columns which
 +   reflect a mean or standard deviation
