@@ -5,7 +5,7 @@ run_analysis.R 5-Step Approach:
 
 Download the dataset if it does not already exist in the working directory
 
-++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++
 
 Step 1: Merges the training and the test sets to create one data set
 
@@ -47,7 +47,7 @@ Step 4: Appropriately labels the data set with descriptive variable names
 
 Making variable names more user-friendly: abbreviated names are written out, parenthesis removed and dashes replaced by underscores.
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Step 5: From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
