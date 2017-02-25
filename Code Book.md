@@ -143,3 +143,5 @@ Measurements (Output)
 [77] "FrequencyDomain_BodyBodyGyroscopeJerkMagnitude_mean"        
 [78] "FrequencyDomain_BodyBodyGyroscopeJerkMagnitude_std"         
 [79] "FrequencyDomain_BodyBodyGyroscopeJerkMagnitude_meanFreq" 
+
+Requested result in file "data_tidy.txt"
