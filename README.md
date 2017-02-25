@@ -1,9 +1,29 @@
 # Getting-and-Cleaning-Data-Course-Project
 
-run_analysis.R procedure:
+run_analysis.R 5-step approach:
 
 
-+1. Download the dataset if it does not already exist in the working directory
+0. Download the dataset if it does not already exist in the working directory
+
+1. Step: Merges the training and the test sets to create one data set
+
+reads all input data sets and unites them in a dataframe called data.all
+
+input data sets training:
+
+features.txt
+X_train.txt
+y_train.txt
+subject_train.txt
+
+input data sets testing:
+
+X_test.txt
+y_test.txt
+subject_test.txt
+
+Moreover, column titles (names) are also added to data.all
+
 +2. Load the activity and feature info
 +3. Loads both the training and test datasets, keeping only those columns which
 +   reflect a mean or standard deviation
