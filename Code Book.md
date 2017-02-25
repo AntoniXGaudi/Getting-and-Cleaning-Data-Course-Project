@@ -62,6 +62,6 @@ Measurements (Input)
 [76] "fBodyBodyGyroMag-meanFreq()"     "fBodyBodyGyroJerkMag-mean()"     "fBodyBodyGyroJerkMag-std()"     
 [79] "fBodyBodyGyroJerkMag-meanFreq()"
 
-
+Measurements (Output)
 
 
