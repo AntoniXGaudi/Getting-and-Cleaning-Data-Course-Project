@@ -54,7 +54,7 @@ Making variable names more user-friendly: abbreviated names are written out, par
 Step 5: From "test_and_train_Mean_and_Std" in step 4, creates a second, independent tidy data set (=tidy_data) with the average of each variable for each activity and each subject.
 
 
-"tidy_data" has 180 rows (6 activities * 30 participants) and 79 + 2 = 81 columns (79 mean and standard deviation variables, grouped by subject and activity variable) and is written to a text file called "tidy_data.txt" (= requested result).
+"tidy_data" has 181 rows (6 activities * 30 participants + column names in first row) and 79 + 2 = 81 columns (79 mean and standard deviation variables, grouped by subject and activity variable) and is written to a text file called "tidy_data.txt" (= requested result).
 
 
 
